@@ -1,5 +1,5 @@
 # genetics-festival-2024
-Site for links to stand activities
+Site for links to stand activities at Cambridge Festival
 
 Strawberry [DNA extraction](https://www.genome.gov/about-genomics/teaching-tools/strawberry-dna-extraction)   
 
